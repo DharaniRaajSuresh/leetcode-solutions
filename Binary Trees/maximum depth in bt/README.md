@@ -7,7 +7,7 @@
 - **Difficulty**: Easy
 - **LeetCode URL**: [Maximum Depth in BT](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - **Source**: Striver SDE
-- **Solved Date**: September 3, 2026
+- **Solved Date**: September 5, 2026
 
 ---
 
